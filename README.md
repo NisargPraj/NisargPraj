@@ -39,7 +39,7 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 ### 🔭 Current Projects
 
 - **[SafeGear](https://github.com/NisargPraj/SafeGear)**: Ensuring construction safety compliance using computer vision (YOLO) and Flask.
-- **[DriveInspector](https://github.com/NisargPraj/DriveInspector)**: Automating vehicle regulation using OCR and computer vision with FastAPI and MongoDB.
+- **[DriveInspector](https://github.com/gopalkatariya44/driveInspector_fastapi)**: Automating vehicle regulation using OCR and computer vision with FastAPI and MongoDB.
 - **Dreamscape**: Event-driven, serverless AI story generation using AWS Lambda, DynamoDB, and OpenAI models.
 
 ---
