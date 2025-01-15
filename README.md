@@ -72,10 +72,11 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 
 ### 🏆 Top Projects
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=thread-hive&theme=radical)](https://github.com/NisargPraj/thread-hive)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=SafeGear&theme=radical)](https://github.com/NisargPraj/SafeGear)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=AI-Pair-Programming&theme=radical)](https://github.com/NisargPraj/AI-Pair-Programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gopalkatariya44&repo=driveInspector_fastapi&theme=radical)](https://github.com/gopalkatariya44/driveInspector_fastapi)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=thread-hive&theme=radical)](https://github.com/NisargPraj/thread-hive)
+
 
 ---
 <!--
