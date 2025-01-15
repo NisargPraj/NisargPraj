@@ -61,13 +61,14 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 - **LinkedIn**: [linkedin.com/in/nisargpraj](https://linkedin.com/in/nisargpraj)
 - **Email**: [nisargprajapati281@gmail.com](mailto:nisargprajapati281@gmail.com)
 
-
+<!--
 ---
 ### 📈 GitHub Stats
 
 ![Nisarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=NisargPraj&show_icons=true&theme=radical)
 
 ---
+-->
 
 ### 🏆 Top Projects
 
