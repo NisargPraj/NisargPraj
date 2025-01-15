@@ -38,6 +38,7 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 
 ### 🔭 Current Projects
 
+- **[ThreadHive](https://github.com/NisargPraj/thread-hive)**: A dynamic microblogging web application that fosters concise, engaging real-time conversations and community interactions.
 - **[SafeGear](https://github.com/NisargPraj/SafeGear)**: Ensuring construction safety compliance using computer vision (YOLO) and Flask.
 - **[DriveInspector](https://github.com/gopalkatariya44/driveInspector_fastapi)**: Automating vehicle regulation using OCR and computer vision with FastAPI and MongoDB.
 - **Dreamscape**: Event-driven, serverless AI story generation using AWS Lambda, DynamoDB, and OpenAI models.
@@ -70,6 +71,7 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 
 ### 🏆 Top Projects
 
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=thread-hive&theme=radical)](https://github.com/NisargPraj/thread-hive)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=SafeGear&theme=radical)](https://github.com/NisargPraj/SafeGear)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=NisargPraj&repo=AI-Pair-Programming&theme=radical)](https://github.com/NisargPraj/AI-Pair-Programming)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gopalkatariya44&repo=driveInspector_fastapi&theme=radical)](https://github.com/gopalkatariya44/driveInspector_fastapi)
