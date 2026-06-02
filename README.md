@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<!--
 # 👋 Hi, I'm Nisarg Prajapati!
-
+-->
 <!-- **`Software Engineer | AI Enthusiast | Enterprise Technologies Specialist | Cloud Developer`** -->
-
+<!--
 I’m currently pursuing a **Master's in Software Engineering** at San Jose State University, specializing in **Enterprise Technologies**. I’m passionate about building **scalable, AI-driven solutions**, and **enterprise-grade cloud-based applications**. With a strong foundation in **Python, Java, and AWS**, I have worked on multiple projects that combine **machine learning**, **computer vision**, **enterprise distributed systems**, and **serverless computing**.
 
 ---
@@ -48,7 +48,7 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 
 - **LinkedIn**: [linkedin.com/in/nisargpraj](https://linkedin.com/in/nisargpraj)
 - **Email**: [nisargprajapati281@gmail.com](mailto:nisargprajapati281@gmail.com)
-
+-->
 <!--
 ---
 ### 📈 GitHub Stats
@@ -58,8 +58,6 @@ I’m currently pursuing a **Master's in Software Engineering** at San Jose Stat
 ---
 -->
 
-
----
 <!--
 ### ⚡ Fun Facts
 
